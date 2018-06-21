@@ -1,0 +1,9 @@
+C:\Julian\MEGA\Xamarin\apppadres\AppPadres\AppPadres\bin\Debug\netstandard2.0\AppPadres.deps.json
+C:\Julian\MEGA\Xamarin\apppadres\AppPadres\AppPadres\bin\Debug\netstandard2.0\AppPadres.dll
+C:\Julian\MEGA\Xamarin\apppadres\AppPadres\AppPadres\bin\Debug\netstandard2.0\AppPadres.pdb
+C:\Julian\MEGA\Xamarin\apppadres\AppPadres\AppPadres\obj\Debug\netstandard2.0\AppPadres.csprojAssemblyReference.cache
+C:\Julian\MEGA\Xamarin\apppadres\AppPadres\AppPadres\obj\Debug\netstandard2.0\AppPadres.csproj.CoreCompileInputs.cache
+C:\Julian\MEGA\Xamarin\apppadres\AppPadres\AppPadres\obj\Debug\netstandard2.0\AppPadres.AssemblyInfoInputs.cache
+C:\Julian\MEGA\Xamarin\apppadres\AppPadres\AppPadres\obj\Debug\netstandard2.0\AppPadres.AssemblyInfo.cs
+C:\Julian\MEGA\Xamarin\apppadres\AppPadres\AppPadres\obj\Debug\netstandard2.0\AppPadres.dll
+C:\Julian\MEGA\Xamarin\apppadres\AppPadres\AppPadres\obj\Debug\netstandard2.0\AppPadres.pdb
